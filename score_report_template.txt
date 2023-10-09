@@ -1,3 +1,4 @@
 [Current Score] out of [Total Score] points
 
 Found [Number of Found] out of [Total Number] vulnerabilities
+-------------------------------------------------
