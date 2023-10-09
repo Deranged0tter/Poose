@@ -10,7 +10,7 @@ import shutil
 def GetTotalVulns():
     return len([name for name in os.listdir("./data") if os.path.isfile(os.path.join("./data", name))])
 
-user = 'toastr'
+user = 'example user'
 score = 0
 total_score = 100
 vulns_found = 0

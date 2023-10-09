@@ -1,5 +1,5 @@
 PointValue: 10
-Command: "cat /home/toastr/testfile | grep cookies"
+Command: "cat /home/user/testfile | grep cookies"
 Check: "0"
 Message: "test message"
 IsFound: false
